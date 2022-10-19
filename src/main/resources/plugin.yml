@@ -1,0 +1,9 @@
+name: BoatFly
+version: '${project.version}'
+author: Creaous
+main: com.redsevenstudios.boatfly.BoatFly
+api-version: 1.19
+depend:
+  - ProtocolLib
+softdepend:
+  - SoaromaSAC
